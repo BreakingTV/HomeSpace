@@ -1,2 +1,2 @@
 # HomeSpace
-A personal Dashboard with multy User support
+A personal dashboard with multi-user support!
